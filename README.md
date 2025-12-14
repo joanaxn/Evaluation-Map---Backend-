@@ -61,12 +61,8 @@ Username: adm
 Password: 123
 
 
-### **Coordenador (ambiente de teste)**
-**Permissões:**
-- Editar apenas o mapa de avaliação do seu curso  
-- Preencher avaliações e submeter alterações após validação obrigatória  
-
-**Credenciais:**
-```text
 Username: user
 Password: 123
+
+
+
