@@ -46,23 +46,21 @@ Este sistema permite que administradores e coordenadores criem, editem e submeta
   - Disponibilidade  
 
 ---
-
 ## Perfis de Utilizador
 
-### **Administrador (ambiente de teste)**
+### Administrador (ambiente de teste)
+
 Permissões:
 - Criar coordenadores
 - Criar e editar mapas de qualquer curso
 - Aceder a todas as funcionalidades do sistema
 
 **Credenciais:**
-```text
 Username: adm
 Password: 123
 
-
-Username: user
-Password: 123
+# NOTAS
+Este projeto foi desenvolvido em equipa, tendo estado envolvida no desenvolvimento backend deste sistema.
 
 
 
