@@ -59,7 +59,7 @@ Permissões:
 Username: adm
 Password: 123
 
-# NOTAS
+# Notas
 Este projeto foi desenvolvido em equipa, tendo estado envolvida no desenvolvimento backend deste sistema.
 
 
