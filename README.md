@@ -50,7 +50,7 @@ Este sistema permite que administradores e coordenadores criem, editem e submeta
 
 ### Administrador (ambiente de teste)
 
-Permissões:
+### Permissões:
 - Criar coordenadores
 - Criar e editar mapas de qualquer curso
 - Aceder a todas as funcionalidades do sistema
@@ -58,6 +58,18 @@ Permissões:
 **Credenciais:**
 Username: adm
 Password: 123
+
+### User
+- Editar apenas o mapa de avaliação do curso associado ao seu login
+- Preencher assiduidade e tipo de avaliação das unidades curriculares
+- Adicionar e editar momentos de avaliação
+- Submeter o mapa de avaliação após o preenchimento obrigatório
+- Obter sala automaticamente para cada avaliação, conforme disponibilidade
+
+### Credenciais:
+Username: user
+Password: 123
+
 
 # Notas
 Este projeto foi desenvolvido em equipa, tendo estado envolvida no desenvolvimento backend deste sistema.
